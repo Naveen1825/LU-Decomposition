@@ -47,9 +47,9 @@ print(np.linalg.solve(a,b))
 ```
 
 ## Output:
-1st Program
-<img width="667" alt="290118035-90a1fe65-457c-411a-b936-9952f42786bb" src="https://github.com/Naveen1825/LU-Decomposition/assets/138969868/942255b0-1b62-4f11-a8d1-07da17ff0751">
-2nd Program
+1st Program<br>
+<img width="667" alt="290118035-90a1fe65-457c-411a-b936-9952f42786bb" src="https://github.com/Naveen1825/LU-Decomposition/assets/138969868/942255b0-1b62-4f11-a8d1-07da17ff0751"><br>
+2nd Program<br>
 <img width="668" alt="290118341-64607261-91ec-41a8-8104-1c03af82f20a" src="https://github.com/Naveen1825/LU-Decomposition/assets/138969868/edb6d577-b01e-47d3-87d8-db68a2cabe19">
 
 
